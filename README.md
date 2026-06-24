@@ -1,2 +1,2 @@
-# Simple-Calculator
-Calculate 
+# SimpleCalculator
+Calculate any thing 
